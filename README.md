@@ -1,5 +1,5 @@
 - Hai, saya @pesanlucky
-kami<p>Hai, Senang rasanya bisa bergabung di Github semoga semua selalu memiliki kabar yang baik. Izinkan saya belajar sebab saya sangat minim pendidikan.</p>
+<p>Senang rasanya bisa bergabung di Github semoga semua selalu memiliki kabar yang baik. Izinkan saya belajar sebab saya sangat minim pendidikan.</p>
 <p>Tentang pesanlucky bisa kunjungi di tautan ini :</p>
 <p><a href="https://pesanlucky.wordpress.com/tentang-pesanlucky/" title="Tentang Pesanlucky">Tentang Pesanlucky</a>&nbsp;</p>
 <p>Beberapa tautan situs saya lampirkan di bawah ini</p>
