@@ -14,10 +14,25 @@
 <p><a href="https://sites.google.com/view/pesanlucky/beranda" title="Pesanlucky Website" target="_blank">Pesanlucky Website</a>&nbsp;</p>
 <p><a href="https://www.twitch.tv/pesanlucky" title="Pesanlucky Twitch TV" target="_blank">Pesanlucky Twitch TV</a></p>
 <p><a href="https://desty.page/pesanlucky" title="Pesanlucky Page" target="_blank">Halaman Pesanlucky</a></p>
-- Saya tertarik pada ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ..
-- 📫 How to reach me ...
+<p><strong>"MEMBUAT TAMPILAN DESIGN PRODUK PESANLUCKY"</strong></p>
+<p></p>
+<p>DAFTAR GAMBAR :</p>
+<p>-<em>Tampilan Design Pertama</em></p>
+<p><em><img src="https://64.media.tumblr.com/176db9893ade2f89b1f8a0392fcef8bf/tumblr_inline_r18g89Ksfc1uz1iwb_500.jpg" /></em></p>
+<p></p>
+<p>-<em>Tampilan Design Kedua</em></p>
+<p><img src="https://64.media.tumblr.com/b776b8b70d8cf2ceb97bc43ca6ad8899/tumblr_inline_r18ga2V5qD1uz1iwb_500.jpg" /></p>
+<p></p>
+<p>-<em>Tampilan Design Ketiga</em></p>
+<p><img src="https://64.media.tumblr.com/a349cdb51cf8d55ae317741b96493747/tumblr_inline_r18gd3ijPC1uz1iwb_500.jpg" /></p>
+<p></p>
+<p></p>
+<p>Untuk design lainnya kunjungi halaman di bawah ini:</p>
+<p><a href="https://sites.google.com/view/pesanlucky/beranda" title="Pesanlucky.id">pesanlucky.id</a></p>
+<p></p>
+
+
+
 
 <!---
 pesanlucky/pesanlucky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
