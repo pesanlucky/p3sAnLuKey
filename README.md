@@ -30,11 +30,3 @@
 <p>Untuk design lainnya kunjungi halaman di bawah ini:</p>
 <p><a href="https://sites.google.com/view/pesanlucky/beranda" title="Pesanlucky.id">pesanlucky.id</a></p>
 <p></p>
-
-
-
-
-<!---
-pesanlucky/pesanlucky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
